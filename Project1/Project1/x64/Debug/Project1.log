@@ -1,0 +1,29 @@
+﻿  main.cpp
+D:\tinyStudent\Project1\Project1\tgaimage.h(61,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\tinyStudent\Project1\Project1\main.cpp(15,23): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\tinyStudent\Project1\Project1\main.cpp(15,17): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\tinyStudent\Project1\Project1\main.cpp(74,65): warning C4305: “+=”: 从“double”到“float”截断
+D:\tinyStudent\Project1\Project1\main.cpp(75,75): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\tinyStudent\Project1\Project1\main.cpp(75,72): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\tinyStudent\Project1\Project1\main.cpp(75,35): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\tinyStudent\Project1\Project1\main.cpp(77,36): warning C4305: “/=”: 从“double”到“float”截断
+D:\tinyStudent\Project1\Project1\main.cpp(79,70): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\tinyStudent\Project1\Project1\main.cpp(79,57): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\tinyStudent\Project1\Project1\main.cpp(79,44): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  Project1.vcxproj -> D:\tinyStudent\Project1\x64\Debug\Project1.exe
